@@ -1,0 +1,6 @@
+{
+  "name": "Project Neon City",
+  "description": "PROJECT NEON CITY - Native C++20 and DirectX 11 Windows PC open-world game conversion architecture, mechanics, and source foundation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
